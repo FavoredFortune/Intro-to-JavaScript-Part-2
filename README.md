@@ -1,4 +1,4 @@
-# Intro-to-JavaScript-Part-2
+# Intro to JavaScript Part 2
 Learn more about JavaScript by creating objects and methods.
 
 This workshop is hosted by sheCodesNow: https://www.meetup.com/She-Codes-Now/
